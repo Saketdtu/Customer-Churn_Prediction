@@ -117,30 +117,3 @@ Establish early warning system for churn prediction
 Saket Kumar | Delhi Technological University | saketkumar.dtu@gmail.com
 
 
-📊 Visualizations
-Cluster Analysis
-Cluster Analysis
-The elbow method and silhouette score help determine the optimal number of clusters
-
-Customer Segments
-Customer Segments
-Visualization of customer segments using PCA dimensionality reduction
-
-Feature Importance
-Feature Importance
-Top 10 features that influence customer churn prediction
-
-Confusion Matrix
-Confusion Matrix
-Confusion matrix showing model performance on test data
-
-ROC Curve
-ROC Curve
-ROC curve showing model's ability to distinguish between churn and non-churn customers
-
-Business Insights
-Business Insights
-Key insights about customer behavior and churn patterns
-
-📧 Contact
-Saket Kumar | Delhi Technological University | saket.kumar@example.com
